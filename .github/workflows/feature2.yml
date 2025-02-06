@@ -1,4 +1,4 @@
-name: first feature test
+name: second feature test
 
 on:
   workflow_dispatch
